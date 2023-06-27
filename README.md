@@ -12,7 +12,7 @@ This repo is a collection of **AWESOME** algorithms about **Gait Recognition**, 
 	- [4. ACM MM](#4-acm-mm)
 	- [5. ECCV](#5-eccv)
 	- [6. ICME](#6-icme)
-	- [7. Others](#7-others-conferences)
+	- [7. Others](#7-other-conferences)
 - [4. Journal](#4-journal)
 	- [1. TPAMI](#1-tpami)
 	- [2. TIP](#2-tip)
