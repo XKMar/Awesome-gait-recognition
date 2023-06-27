@@ -4,7 +4,7 @@ This repo is a collection of **AWESOME** algorithms about **Gait Recognition**, 
 
 ## Table of Contents (Ongoing updates)
 - [1. Survey](#1-survey)
-- [2. Arxiv](#2-arxiv)
+- [2. arXiv](#2-arxiv)
 - [3. Conference](#3-conference)
 	- [1. CVPR](#1-cvpr)
 	- [2. ICCV](#2-iccv)
@@ -30,7 +30,7 @@ This repo is a collection of **AWESOME** algorithms about **Gait Recognition**, 
 - A survey on gait recognition.  \[[CSUR-18](https://dl.acm.org/toc/csur/2019/51/5)\]\[[paper](https://dl.acm.org/doi/abs/10.1145/3230633)\]
 - Biometric recognition by gait: A survey of modalities and features. \[[CVIU-18](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding)\]\[[paper](https://www.sciencedirect.com/science/article/pii/S1077314218300079)\]
 
-## 2. Arxiv
+## 2. arXiv
 - GaitGS: Temporal Feature Learning in Granularity and Span Dimension for Gait Recognition. \[[Arxiv-23](https://arxiv.org/)\]\[[paper](https://arxiv.org/pdf/2305.19700)\]
 - GaitSADA: Self-Aligned Domain Adaptation for mmWave Gait Recognition. \[[Arxiv-23](https://arxiv.org/)\]\[[paper](https://arxiv.org/abs/2301.13384)\]
 - Human Body Pose Estimation for Gait Identification: A Comprehensive Survey of Datasets and Models. \[[Arxiv-23](https://arxiv.org/)\]\[[paper](https://arxiv.org/pdf/2305.13765)\]
