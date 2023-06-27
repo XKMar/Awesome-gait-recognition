@@ -12,7 +12,7 @@ This repo is a collection of **AWESOME** algorithms about **Gait Recognition**, 
 	- [4. ACM MM](#4-acm-mm)
 	- [5. ECCV](#5-eccv)
 	- [6. ICME](#6-icme)
-	- [7. Others](#7-others)
+	- [7. Others](#7-others-conferences)
 - [4. Journal](#4-journal)
 	- [1. TPAMI](#1-tpami)
 	- [2. TIP](#2-tip)
@@ -20,7 +20,7 @@ This repo is a collection of **AWESOME** algorithms about **Gait Recognition**, 
 	- [4. PR](#4-pr)
 	- [5. TMM](#5-tmm)
 	- [6. TCSVT](#6-tcsvt)
-	- [7. Others](#7-others)
+	- [7. Others](#7-other-journals)
 
 ## 1. Survey
 - Deep Gait Recognition: A Survey. \[[TPAMI-23](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)\]\[[paper](https://www.computer.org/csdl/journal/tp/2023/01/09714177/1B0XQYUe8Ao)\]
@@ -65,7 +65,7 @@ This repo is a collection of **AWESOME** algorithms about **Gait Recognition**, 
 - Gait Recognition in the Wild With Dense 3D Representations and a Benchmark. \[[CVPR-22](https://cvpr2022.thecvf.com/)\] \[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Gait_Recognition_in_the_Wild_With_Dense_3D_Representations_and_CVPR_2022_paper.pdf)\] \[[github](https://gait3d.github.io/)\]
 - Lagrange Motion Analysis and View Embeddings for Improved Gait Recognition.\[[CVPR-22](https://cvpr2022.thecvf.com/)\] \[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chai_Lagrange_Motion_Analysis_and_View_Embeddings_for_Improved_Gait_Recognition_CVPR_2022_paper.pdf)\] 
 - Cloth-Changing Person Re-Identification From a Single Image With Gait Prediction and Regularization. \[[CVPR-22](https://cvpr2022.thecvf.com/)\] \[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jin_Cloth-Changing_Person_Re-Identification_From_a_Single_Image_With_Gait_Prediction_CVPR_2022_paper.pdf)\]
-- Towards a Deeper Understanding of Skeleton-based Gait Recognition. \[[CVPRW-22] (https://cvpr2022.thecvf.com/)\]\[[paper](https://openaccess.thecvf.com/content/CVPR2022W/Biometrics/html/Teepe_Towards_a_Deeper_Understanding_of_Skeleton-Based_Gait_Recognition_CVPRW_2022_paper.html)\]
+- Towards a Deeper Understanding of Skeleton-based Gait Recognition. \[[CVPRW-22](https://cvpr2022.thecvf.com/)\] \[[paper](https://openaccess.thecvf.com/content/CVPR2022W/Biometrics/html/Teepe_Towards_a_Deeper_Understanding_of_Skeleton-Based_Gait_Recognition_CVPRW_2022_paper.html)\]
 - Cross-View Gait Recognition With Deep Universal Linear Embeddings. \[[CVPR-21](https://cvpr2021.thecvf.com/)\] \[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Cross-View_Gait_Recognition_With_Deep_Universal_Linear_Embeddings_CVPR_2021_paper.pdf)\]
 - Gait Recognition via Semi-supervised Disentangled Representation Learning to Identity and Covariate Features. \[[CVPR-20](https://cvpr2020.thecvf.com/)\] \[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Gait_Recognition_via_Semi-supervised_Disentangled_Representation_Learning_to_Identity_and_CVPR_2020_paper.pdf)\]
 - GaitPart: Temporal Part-Based Model for Gait Recognition. \[[CVPR-20](https://cvpr2020.thecvf.com/)\] \[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_GaitPart_Temporal_Part-Based_Model_for_Gait_Recognition_CVPR_2020_paper.pdf)\]
@@ -108,8 +108,8 @@ This repo is a collection of **AWESOME** algorithms about **Gait Recognition**, 
 - Decomposing Identity and View for Cross-View Gait Recognition. \[[ICME-22](https://2022.ieeeicme.org/)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/9859981/)\]
 - GaitTransformer: Multiple-Temporal-Scale Transformer for Cross-View Gait Recognition. \[[ICME-22](https://2022.ieeeicme.org/)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/9859928/)\]
 
-### 7. Others
-- - CTrGAN: Cycle Transformers GAN for Gait Transfer. \[[WACV-23](https://wacv2023.thecvf.com/)\]\[[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Mahpod_CTrGAN_Cycle_Transformers_GAN_for_Gait_Transfer_WACV_2023_paper.pdf)\] 
+### 7. Other conferences
+- CTrGAN: Cycle Transformers GAN for Gait Transfer. \[[WACV-23](https://wacv2023.thecvf.com/)\]\[[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Mahpod_CTrGAN_Cycle_Transformers_GAN_for_Gait_Transfer_WACV_2023_paper.pdf)\] 
 - Long Range Gait Matching Using 3D Body Fitting With Gait-Specific Motion Constraints. \[[WACV-23](https://wacv2023.thecvf.com/)\]\[[paper](https://openaccess.thecvf.com/content/WACV2023W/LRR/html/Segundo_Long_Range_Gait_Matching_Using_3D_Body_Fitting_With_Gait-Specific_WACVW_2023_paper.html)\]
 - Gait Recognition Using 3-D Human Body Shape Inference.  \[[WACV-23](https://wacv2023.thecvf.com/)\]\[[paper](https://openaccess.thecvf.com/content/WACV2023/html/Zhu_Gait_Recognition_Using_3-D_Human_Body_Shape_Inference_WACV_2023_paper.html)\]
 - FedGait: A Benchmark for Federated Gait Recognition. \[[ICPR-22](https://www.icpr2022.com/)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/9956474/)\]
@@ -193,7 +193,7 @@ This repo is a collection of **AWESOME** algorithms about **Gait Recognition**, 
 - Gait recognition under various viewing angles based on correlated motion regression. \[[TCSVT-12](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/6145627/)\]
 - Fusion of static and dynamic body biometrics for gait recognition. \[[TCSVT-04](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/1269749/)\]
 
-### 7. Others
+### 7. Other Journals
 - Learning Temporal Attention based Keypoint-guided Embedding for Gait Recognition. \[[JSTSP-23](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/10113150/)\]
 - Gait Pyramid Attention Network: Toward Silhouette Semantic Relation Learning for Gait Recognition.  \[[TBIOM-22](https://ieeexplore.ieee.org/document/8444127)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/9916067/)\]
 - STAR: Spatio-Temporal Augmented Relation Network for Gait Recognition.  \[[TBIOM-22](https://ieeexplore.ieee.org/document/8444127)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/9913216/)\]
