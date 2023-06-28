@@ -110,7 +110,7 @@ Feel free to star and fork.
 - Decomposing Identity and View for Cross-View Gait Recognition. \[[ICME-22](https://2022.ieeeicme.org/)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/9859981/)\]
 - GaitTransformer: Multiple-Temporal-Scale Transformer for Cross-View Gait Recognition. \[[ICME-22](https://2022.ieeeicme.org/)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/9859928/)\]
 
-### 7. Other top conferences
+### 7. Other Top Conferences
 - CTrGAN: Cycle Transformers GAN for Gait Transfer. \[[WACV-23](https://wacv2023.thecvf.com/)\]\[[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Mahpod_CTrGAN_Cycle_Transformers_GAN_for_Gait_Transfer_WACV_2023_paper.pdf)\] 
 - Long Range Gait Matching Using 3D Body Fitting With Gait-Specific Motion Constraints. \[[WACV-23](https://wacv2023.thecvf.com/)\]\[[paper](https://openaccess.thecvf.com/content/WACV2023W/LRR/html/Segundo_Long_Range_Gait_Matching_Using_3D_Body_Fitting_With_Gait-Specific_WACVW_2023_paper.html)\]
 - Gait Recognition Using 3-D Human Body Shape Inference.  \[[WACV-23](https://wacv2023.thecvf.com/)\]\[[paper](https://openaccess.thecvf.com/content/WACV2023/html/Zhu_Gait_Recognition_Using_3-D_Human_Body_Shape_Inference_WACV_2023_paper.html)\]
@@ -203,7 +203,7 @@ Feel free to star and fork.
 - View-invariant gait recognition with attentive recurrent learning of partial representations. \[[TBIOM-20](https://ieeexplore.ieee.org/document/8444127)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/9229117/)\]
 - Performance evaluation of model-based gait on multi-view very large population database with pose sequences. \[[TBIOM-20](https://ieeexplore.ieee.org/document/8444127)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/9139355/)\]
 
-### 8. Other top Journals
+### 8. Other Top Journals
 - Learning Temporal Attention based Keypoint-guided Embedding for Gait Recognition. \[[JSTSP-23](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/10113150/)\]
 - Gait Quality Aware Network: Toward the Interpretability of Silhouette-Based Gait Recognition. \[[TNNLS-22](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/9737002/)\]
 - Gait Identification Based on Human Skeleton with Pairwise Graph Convolutional Network. \[[ICME-21](https://ieeexplore.ieee.org/xpl/conhome/9428049/proceeding)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/9428123/)\]
