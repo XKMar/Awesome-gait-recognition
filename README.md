@@ -1,6 +1,7 @@
 # awesome-gait-recognition  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repo is a collection of **AWESOME** algorithms about **Gait Recognition**, including papers, code, etc. Feel free to star and fork.
+This repo is a collection of **AWESOME** algorithms about **Gait Recognition**, including papers, code, etc.
+Feel free to star and fork.
 
 ## Table of Contents (Ongoing updates)
 - [1. Survey](#1-survey)
