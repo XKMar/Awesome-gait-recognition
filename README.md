@@ -21,7 +21,8 @@ Feel free to star and fork.
 	- [4. PR](#4-pr)
 	- [5. TMM](#5-tmm)
 	- [6. TCSVT](#6-tcsvt)
-	- [7. Others](#7-other-journals)
+ 	- [7. TBIOM](#7-tbiom)
+	- [8. Others](#8-other-journals)
 
 ## 1. Survey
 - Deep Gait Recognition: A Survey. \[[TPAMI-23](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)\]\[[paper](https://www.computer.org/csdl/journal/tp/2023/01/09714177/1B0XQYUe8Ao)\]
@@ -194,18 +195,20 @@ Feel free to star and fork.
 - Gait recognition under various viewing angles based on correlated motion regression. \[[TCSVT-12](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/6145627/)\]
 - Fusion of static and dynamic body biometrics for gait recognition. \[[TCSVT-04](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/1269749/)\]
 
-### 7. Other Journals
-- Learning Temporal Attention based Keypoint-guided Embedding for Gait Recognition. \[[JSTSP-23](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/10113150/)\]
+### 7. TBIOM
 - Gait Pyramid Attention Network: Toward Silhouette Semantic Relation Learning for Gait Recognition.  \[[TBIOM-22](https://ieeexplore.ieee.org/document/8444127)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/9916067/)\]
 - STAR: Spatio-Temporal Augmented Relation Network for Gait Recognition.  \[[TBIOM-22](https://ieeexplore.ieee.org/document/8444127)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/9913216/)\]
 - Multi-view large population gait database with human meshes and its performance evaluation. \[[TBIOM-22](https://ieeexplore.ieee.org/document/8444127)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/9773349/)\]
-- Gait Quality Aware Network: Toward the Interpretability of Silhouette-Based Gait Recognition. \[[TNNLS-22](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/9737002/)\]
 - Set residual network for silhouette-based gait recognition.  \[[TBIOM-21](https://ieeexplore.ieee.org/document/8444127)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/9410587/)\]
+- View-invariant gait recognition with attentive recurrent learning of partial representations. \[[TBIOM-20](https://ieeexplore.ieee.org/document/8444127)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/9229117/)\]
+- Performance evaluation of model-based gait on multi-view very large population database with pose sequences. \[[TBIOM-20](https://ieeexplore.ieee.org/document/8444127)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/9139355/)\]
+
+### 8. Other Journals
+- Learning Temporal Attention based Keypoint-guided Embedding for Gait Recognition. \[[JSTSP-23](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/10113150/)\]
+- Gait Quality Aware Network: Toward the Interpretability of Silhouette-Based Gait Recognition. \[[TNNLS-22](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/9737002/)\]
 - Gait Identification Based on Human Skeleton with Pairwise Graph Convolutional Network. \[[ICME-21](https://ieeexplore.ieee.org/xpl/conhome/9428049/proceeding)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/9428123/)\]
 - Static and Dynamic Features Analysis from Human Skeletons for Gait Recognition. \[[IJCB-21](https://ieeexplore.ieee.org/xpl/conhome/9484326/proceeding)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/9484378/)\]
 - Gait recognition based on 3d skeleton data and graph convolutional network. \[[IJCB-20](https://ieeexplore.ieee.org/xpl/conhome/9484326/proceeding)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/9304916/)\]
-- View-invariant gait recognition with attentive recurrent learning of partial representations. \[[TBIOM-20](https://ieeexplore.ieee.org/document/8444127)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/9229117/)\]
-- Performance evaluation of model-based gait on multi-view very large population database with pose sequences. \[[TBIOM-20](https://ieeexplore.ieee.org/document/8444127)\]\[[paper](https://ieeexplore.ieee.org/abstract/document/9139355/)\]
 - Dense-view geis set: View space covering for gait recognition based on dense-view gan. \[[IJCB-20](https://ieeexplore.ieee.org/xpl/conhome/9304574/proceeding)\] \[[paper](https://ieeexplore.ieee.org/abstract/document/9304910/)\]
 - DeformGait: Gait Recognition under Posture Changes using Deformation Patterns between Gait Feature Pairs. \[[IJCB-20](https://ieeexplore.ieee.org/xpl/conhome/9304574/proceeding)\] \[[paper](https://ieeexplore.ieee.org/abstract/document/9304902/)\]
 - Walking speed influences on gait cycle variability. \[[GP-07](https://www.sciencedirect.com/journal/gait-and-posture)\] \[[paper](https://www.sciencedirect.com/science/article/pii/S0966636206001846)\]
