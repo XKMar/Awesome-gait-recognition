@@ -29,9 +29,8 @@ Feel free to star and fork.
 
 ## 1. Survey
 
-- Deep Gait Recognition: A Survey. \[[TPAMI-23](https://www.computer.org/csdl/journal/tp/2023/01/09714177/1B0XQYUe8Ao)\]\[[arXiv](https://arxiv.org/pdf/2102.09546.pdf)\]
+- Deep Gait Recognition: A Survey. \[[TPAMI-23](https://www.computer.org/csdl/journal/tp/2023/01/09714177/1B0XQYUe8Ao)\]\[[arXiv-22](https://arxiv.org/pdf/2102.09546.pdf)\]
 - A comprehensive survey on deep gait recognition: algorithms, datasets and challenges. \[[arXiv-22](https://arxiv.org/abs/2206.13732)\]
-- Deep gait recognition: A survey. \[[TPAMI-22](https://ieeexplore.ieee.org/abstract/document/9714177/)\]
 - A survey on gait recognition via wearable sensors. \[[CSUR-19](https://dl.acm.org/doi/abs/10.1145/3340293)\]
 - A survey on gait recognition.  \[[CSUR-18](https://dl.acm.org/doi/abs/10.1145/3230633)\]
 - Biometric recognition by gait: A survey of modalities and features. \[[CVIU-18](https://www.sciencedirect.com/science/article/pii/S1077314218300079)\]
