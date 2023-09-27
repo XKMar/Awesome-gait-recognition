@@ -42,7 +42,7 @@ Feel free to star and fork.
 - Human Body Pose Estimation for Gait Identification: A Comprehensive Survey of Datasets and Models. \[[arXiv-23](https://arxiv.org/pdf/2305.13765)\]
 - GaitRef: Gait Recognition with Refined Sequential Skeletons. \[[arXiv-23](https://arxiv.org/pdf/2304.07916)\]
 - Unsupervised Gait Recognition with Selective Fusion.  \[[arXiv-23](https://arxiv.org/pdf/2303.10772)\]
-- GPGait: Generalized Pose-based Gait Recognition. \[[arXiv-23](https://arxiv.org/pdf/2303.05234)\]
+- GPGait: Generalized Pose-based Gait Recognition. \[[arXiv-23](https://arxiv.org/pdf/2303.05234)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
 - GaitEditer: Attribute Editing for Gait Representation Learning. \[[arXiv-23](https://arxiv.org/pdf/2303.05076)\]
 - Exploring Deep Models for Practical Gait Recognition.  \[[arXiv-23](https://arxiv.org/pdf/2303.03301)\]
 - GaitSADA: Self-Aligned Domain Adaptation for mmWave Gait Recognition. \[[arXiv-23](https://arxiv.org/pdf/2301.13384)\]
