@@ -37,27 +37,27 @@ Feel free to star and fork.
 
 ## 2. arXiv
 
-- GaitGS: Temporal Feature Learning in Granularity and Span Dimension for Gait Recognition. \[[arXiv-23](https://arxiv.org/pdf/2305.19700)\]
-- GaitSADA: Self-Aligned Domain Adaptation for mmWave Gait Recognition. \[[arXiv-23](https://arxiv.org/abs/2301.13384)\]
+- GaitGS: Temporal Feature Learning in Granularity and Span Dimension for Gait Recognition. \[[arXiv-23](https://arxiv.org/pdf/2305.19700)\] ![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- GaitSADA: Self-Aligned Domain Adaptation for mmWave Gait Recognition. \[[arXiv-23](https://arxiv.org/abs/2301.13384)\] ![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 - Human Body Pose Estimation for Gait Identification: A Comprehensive Survey of Datasets and Models. \[[arXiv-23](https://arxiv.org/pdf/2305.13765)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
 - GaitRef: Gait Recognition with Refined Sequential Skeletons. \[[arXiv-23](https://arxiv.org/pdf/2304.07916)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
-- Unsupervised Gait Recognition with Selective Fusion.  \[[arXiv-23](https://arxiv.org/pdf/2303.10772)\]
+- Unsupervised Gait Recognition with Selective Fusion.  \[[arXiv-23](https://arxiv.org/pdf/2303.10772)\] ![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 - GPGait: Generalized Pose-based Gait Recognition. \[[arXiv-23](https://arxiv.org/pdf/2303.05234)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
-- GaitEditer: Attribute Editing for Gait Representation Learning. \[[arXiv-23](https://arxiv.org/pdf/2303.05076)\]
-- Exploring Deep Models for Practical Gait Recognition.  \[[arXiv-23](https://arxiv.org/pdf/2303.03301)\]
-- GaitSADA: Self-Aligned Domain Adaptation for mmWave Gait Recognition. \[[arXiv-23](https://arxiv.org/pdf/2301.13384)\]
+- GaitEditer: Attribute Editing for Gait Representation Learning. \[[arXiv-23](https://arxiv.org/pdf/2303.05076)\] ![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Exploring Deep Models for Practical Gait Recognition.  \[[arXiv-23](https://arxiv.org/pdf/2303.03301)\] ![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- GaitSADA: Self-Aligned Domain Adaptation for mmWave Gait Recognition. \[[arXiv-23](https://arxiv.org/pdf/2301.13384)\] ![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 - Parkinson gait modelling from an anomaly deep representation. \[[arXiv-23](https://arxiv.org/pdf/2301.11418)\]
 - Combining the Silhouette and Skeleton Data for Gait Recognition \[[arXiv-23](https://arxiv.org/abs/2202.10645v3)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
-- LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors. \[[arXiv-22](https://arxiv.org/pdf/2211.12371)\]
-- From Indoor To Outdoor: Unsupervised Domain Adaptive Gait Recognition. \[[arXiv-22](https://arxiv.org/pdf/2211.11155)\]
-- Uncertainty-aware Gait Recognition via Learning from Dirichlet Distribution-based Evidence. \[[arXiv-22](https://arxiv.org/pdf/2211.08007)\]
-- HDNet: Hierarchical Dynamic Network for Gait Recognition using Millimeter-Wave Radar. \[[arXiv-22](https://arxiv.org/pdf/2211.00312)\]
+- LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors. \[[arXiv-22](https://arxiv.org/pdf/2211.12371)\] ![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- From Indoor To Outdoor: Unsupervised Domain Adaptive Gait Recognition. \[[arXiv-22](https://arxiv.org/pdf/2211.11155)\] ![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Uncertainty-aware Gait Recognition via Learning from Dirichlet Distribution-based Evidence. \[[arXiv-22](https://arxiv.org/pdf/2211.08007)\] ![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- HDNet: Hierarchical Dynamic Network for Gait Recognition using Millimeter-Wave Radar. \[[arXiv-22](https://arxiv.org/pdf/2211.00312)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
 - GaitMixer: Skeleton-based Gait Representation Learning via Wide-spectrum Multi-axial Mixer. \[[arXiv-22](https://arxiv.org/pdf/2210.15491)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
-- Motion Matters: A Novel Motion Modeling For Cross-View Gait Feature Learning. \[[arXiv-22](https://arxiv.org/pdf/2210.11817)\]
-- Multi-view Gait Recognition based on Siamese Vision Transformer. \[[arXiv-22](https://arxiv.org/pdf/2210.10421)\]
-- CNTN: Cyclic Noise-tolerant Network for Gait Recognition. \[[arXiv-22](https://arxiv.org/pdf/2210.06910)\]
-- Generalized Inter-class Loss for Gait Recognition. \[[arXiv-22](https://arxiv.org/pdf/2210.06779)\]
-- Learning Gait Representation from Massive Unlabelled Walking Videos: A Benchmark. \[[arXiv-22](https://arxiv.org/abs/2206.13964)\]
+- Motion Matters: A Novel Motion Modeling For Cross-View Gait Feature Learning. \[[arXiv-22](https://arxiv.org/pdf/2210.11817)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Multi-view Gait Recognition based on Siamese Vision Transformer. \[[arXiv-22](https://arxiv.org/pdf/2210.10421)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- CNTN: Cyclic Noise-tolerant Network for Gait Recognition. \[[arXiv-22](https://arxiv.org/pdf/2210.06910)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Generalized Inter-class Loss for Gait Recognition. \[[arXiv-22](https://arxiv.org/pdf/2210.06779)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Learning Gait Representation from Massive Unlabelled Walking Videos: A Benchmark. \[[arXiv-22](https://arxiv.org/abs/2206.13964)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 - Spatial Transformer Network on Skeleton-based Gait Recognition. \[[arXiv-22](https://arxiv.org/abs/2204.03873)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
 
 ## 3. Conference
