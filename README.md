@@ -39,8 +39,8 @@ Feel free to star and fork.
 
 - GaitGS: Temporal Feature Learning in Granularity and Span Dimension for Gait Recognition. \[[arXiv-23](https://arxiv.org/pdf/2305.19700)\]
 - GaitSADA: Self-Aligned Domain Adaptation for mmWave Gait Recognition. \[[arXiv-23](https://arxiv.org/abs/2301.13384)\]
-- Human Body Pose Estimation for Gait Identification: A Comprehensive Survey of Datasets and Models. \[[arXiv-23](https://arxiv.org/pdf/2305.13765)\]
-- GaitRef: Gait Recognition with Refined Sequential Skeletons. \[[arXiv-23](https://arxiv.org/pdf/2304.07916)\]
+- Human Body Pose Estimation for Gait Identification: A Comprehensive Survey of Datasets and Models. \[[arXiv-23](https://arxiv.org/pdf/2305.13765)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
+- GaitRef: Gait Recognition with Refined Sequential Skeletons. \[[arXiv-23](https://arxiv.org/pdf/2304.07916)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
 - Unsupervised Gait Recognition with Selective Fusion.  \[[arXiv-23](https://arxiv.org/pdf/2303.10772)\]
 - GPGait: Generalized Pose-based Gait Recognition. \[[arXiv-23](https://arxiv.org/pdf/2303.05234)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
 - GaitEditer: Attribute Editing for Gait Representation Learning. \[[arXiv-23](https://arxiv.org/pdf/2303.05076)\]
@@ -52,13 +52,13 @@ Feel free to star and fork.
 - From Indoor To Outdoor: Unsupervised Domain Adaptive Gait Recognition. \[[arXiv-22](https://arxiv.org/pdf/2211.11155)\]
 - Uncertainty-aware Gait Recognition via Learning from Dirichlet Distribution-based Evidence. \[[arXiv-22](https://arxiv.org/pdf/2211.08007)\]
 - HDNet: Hierarchical Dynamic Network for Gait Recognition using Millimeter-Wave Radar. \[[arXiv-22](https://arxiv.org/pdf/2211.00312)\]
-- GaitMixer: Skeleton-based Gait Representation Learning via Wide-spectrum Multi-axial Mixer. \[[arXiv-22](https://arxiv.org/pdf/2210.15491)\]
+- GaitMixer: Skeleton-based Gait Representation Learning via Wide-spectrum Multi-axial Mixer. \[[arXiv-22](https://arxiv.org/pdf/2210.15491)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
 - Motion Matters: A Novel Motion Modeling For Cross-View Gait Feature Learning. \[[arXiv-22](https://arxiv.org/pdf/2210.11817)\]
 - Multi-view Gait Recognition based on Siamese Vision Transformer. \[[arXiv-22](https://arxiv.org/pdf/2210.10421)\]
 - CNTN: Cyclic Noise-tolerant Network for Gait Recognition. \[[arXiv-22](https://arxiv.org/pdf/2210.06910)\]
 - Generalized Inter-class Loss for Gait Recognition. \[[arXiv-22](https://arxiv.org/pdf/2210.06779)\]
 - Learning Gait Representation from Massive Unlabelled Walking Videos: A Benchmark. \[[arXiv-22](https://arxiv.org/abs/2206.13964)\]
-- Spatial Transformer Network on Skeleton-based Gait Recognition. \[[arXiv-22](https://arxiv.org/abs/2204.03873)\]
+- Spatial Transformer Network on Skeleton-based Gait Recognition. \[[arXiv-22](https://arxiv.org/abs/2204.03873)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
 
 ## 3. Conference
 
