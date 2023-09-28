@@ -95,6 +95,8 @@ Feel free to star and fork.
 - 3D Local Convolutional Neural Networks for Gait Recognition. \[[ICCV-21](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_3D_Local_Convolutional_Neural_Networks_for_Gait_Recognition_ICCV_2021_paper.pdf)\]
 - Gait Recognition in the Wild: A Benchmark. \[[ICCV-21](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Gait_Recognition_in_the_Wild_A_Benchmark_ICCV_2021_paper.pdf)\]
 - End-to-end Model-based Gait Recognition using Synchronized Multi-view Pose Constraint. \[[ICCVW-21](https://openaccess.thecvf.com/content/ICCV2021W/HTCV/html/Li_End-to-End_Model-Based_Gait_Recognition_Using_Synchronized_Multi-View_Pose_Constraint_ICCVW_2021_paper.html)\]
+- GPGait: Generalized Pose-based Gait Recognition. \[[ICCV-23](https://openaccess.thecvf.com/content/ICCV2023/papers/Fu_GPGait_Generalized_Pose-based_Gait_Recognition_ICCV_2023_paper.pdf)\]
+- 
 
 ### 3. AAAI
 
