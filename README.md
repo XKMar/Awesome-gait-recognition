@@ -71,8 +71,6 @@ Feel free to star and fork.
 - GaitGCI: Generative Counterfactual Intervention for Gait Recognition.\[[CVPR-23](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_An_In-Depth_Exploration_of_Person_Re-Identification_and_Gait_Recognition_in_CVPR_2023_paper.pdf)\] 
 
 - LidarGait: Benchmarking 3D Gait Recognition With Point Clouds. \[[CVPR-23](https://openaccess.thecvf.com/content/CVPR2023/papers/Shen_LidarGait_Benchmarking_3D_Gait_Recognition_With_Point_Clouds_CVPR_2023_paper.pdf)\] \[[Github](https://lidargait.github.io/)\]
-- 
-- LidarGait: Benchmarking 3D Gait Recognition With Point Clouds. \[[CVPR-23] (https://openaccess.thecvf.com/content/CVPR2023/papers/Shen_LidarGait_Benchmarking_3D_Gait_Recognition_With_Point_Clouds_CVPR_2023_paper.pdf)\]\[[Github](https://lidargait.github.io/)\]
   
 - OpenGait: Revisiting Gait Recognition Towards Better Practicality. \[[CVPR-23](https://openaccess.thecvf.com/content/CVPR2023/papers/Fan_OpenGait_Revisiting_Gait_Recognition_Towards_Better_Practicality_CVPR_2023_paper.pdf)\]\[[Github](https://github.com/ShiqiYu/OpenGait)\] ![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 - Multi-Modal Gait Recognition via Effective Spatial-Temporal Feature Fusion.  \[[CVPR-23](https://openaccess.thecvf.com/content/CVPR2023/papers/Cui_Multi-Modal_Gait_Recognition_via_Effective_Spatial-Temporal_Feature_Fusion_CVPR_2023_paper.pdf)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
