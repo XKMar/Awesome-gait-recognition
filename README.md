@@ -68,6 +68,8 @@ Feel free to star and fork.
 
 - An In-Depth Exploration of Person Re-Identification and Gait Recognition in Cloth-Changing Conditions. \[[CVPR-23](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_An_In-Depth_Exploration_of_Person_Re-Identification_and_Gait_Recognition_in_CVPR_2023_paper.pdf)\] \[[Github](https://github.com/BNU-IVC/CCPG)\]
 
+- GaitGCI: Generative Counterfactual Intervention for Gait Recognition.\[[CVPR-23](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_An_In-Depth_Exploration_of_Person_Re-Identification_and_Gait_Recognition_in_CVPR_2023_paper.pdf)\] 
+- 
 - GaitGCI: Generative Counterfactual Intervention for Gait Recognition.\[[CVPR-23]([https://openaccess.thecvf.com/content/CVPR2023/papers/Li_An_In-Depth_Exploration_of_Person_Re-Identification_and_Gait_Recognition_in_CVPR_2023_paper.pdf] \[[Github](https://github.com/BNU-IVC/CCPG)\]
 
 - LidarGait: Benchmarking 3D Gait Recognition With Point Clouds. \[[CVPR-23] (https://openaccess.thecvf.com/content/CVPR2023/papers/Shen_LidarGait_Benchmarking_3D_Gait_Recognition_With_Point_Clouds_CVPR_2023_paper.pdf)\]\[[Github](https://lidargait.github.io/)\] 
