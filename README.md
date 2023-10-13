@@ -94,23 +94,23 @@ Feel free to star and fork.
 
 ### 2. ICCV
 
-- GPGait: Generalized Pose-based Gait Recognition. \[[ICCV-23](https://openaccess.thecvf.com/content/ICCV2023/papers/Fu_GPGait_Generalized_Pose-based_Gait_Recognition_ICCV_2023_paper.pdf)\]
-- Physics-Augmented Autoencoder for 3D Skeleton-Based Gait Recognition. \[[ICCV-23](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Physics-Augmented_Autoencoder_for_3D_Skeleton-Based_Gait_Recognition_ICCV_2023_paper.pdf)\]
-- Fine-grained Unsupervised Domain Adaptation for Gait Recognition. \[[ICCV-23](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Fine-grained_Unsupervised_Domain_Adaptation_for_Gait_Recognition_ICCV_2023_paper.pdf)\]
-- Hierarchical Spatio-Temporal Representation Learning for Gait Recognition. \[[ICCV-23](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Hierarchical_Spatio-Temporal_Representation_Learning_for_Gait_Recognition_ICCV_2023_paper.pdf)\]
-- DyGait: Exploiting Dynamic Representations for High-performance Gait Recognition. \[[ICCV-23](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_DyGait_Exploiting_Dynamic_Representations_for_High-performance_Gait_Recognition_ICCV_2023_paper.pdf)\]
-- Gait Recognition via Effective Global-Local Feature Representation and Local Temporal Aggregation. \[[ICCV-21](https://openaccess.thecvf.com/content/ICCV2021/papers/Lin_Gait_Recognition_via_Effective_Global-Local_Feature_Representation_and_Local_Temporal_ICCV_2021_paper.pdf)\]
-- Context-Sensitive Temporal Feature Learning for Gait Recognition. \[[ICCV-21](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_Context-Sensitive_Temporal_Feature_Learning_for_Gait_Recognition_ICCV_2021_paper.pdf)\]
-- 3D Local Convolutional Neural Networks for Gait Recognition. \[[ICCV-21](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_3D_Local_Convolutional_Neural_Networks_for_Gait_Recognition_ICCV_2021_paper.pdf)\]
-- Gait Recognition in the Wild: A Benchmark. \[[ICCV-21](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Gait_Recognition_in_the_Wild_A_Benchmark_ICCV_2021_paper.pdf)\]
-- End-to-end Model-based Gait Recognition using Synchronized Multi-view Pose Constraint. \[[ICCVW-21](https://openaccess.thecvf.com/content/ICCV2021W/HTCV/html/Li_End-to-End_Model-Based_Gait_Recognition_Using_Synchronized_Multi-View_Pose_Constraint_ICCVW_2021_paper.html)\]
+- GPGait: Generalized Pose-based Gait Recognition. \[[ICCV-23](https://openaccess.thecvf.com/content/ICCV2023/papers/Fu_GPGait_Generalized_Pose-based_Gait_Recognition_ICCV_2023_paper.pdf)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
+- Physics-Augmented Autoencoder for 3D Skeleton-Based Gait Recognition. \[[ICCV-23](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Physics-Augmented_Autoencoder_for_3D_Skeleton-Based_Gait_Recognition_ICCV_2023_paper.pdf)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
+- Fine-grained Unsupervised Domain Adaptation for Gait Recognition. \[[ICCV-23](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Fine-grained_Unsupervised_Domain_Adaptation_for_Gait_Recognition_ICCV_2023_paper.pdf)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Hierarchical Spatio-Temporal Representation Learning for Gait Recognition. \[[ICCV-23](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Hierarchical_Spatio-Temporal_Representation_Learning_for_Gait_Recognition_ICCV_2023_paper.pdf)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- DyGait: Exploiting Dynamic Representations for High-performance Gait Recognition. \[[ICCV-23](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_DyGait_Exploiting_Dynamic_Representations_for_High-performance_Gait_Recognition_ICCV_2023_paper.pdf)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Gait Recognition via Effective Global-Local Feature Representation and Local Temporal Aggregation. \[[ICCV-21](https://openaccess.thecvf.com/content/ICCV2021/papers/Lin_Gait_Recognition_via_Effective_Global-Local_Feature_Representation_and_Local_Temporal_ICCV_2021_paper.pdf)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Context-Sensitive Temporal Feature Learning for Gait Recognition. \[[ICCV-21](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_Context-Sensitive_Temporal_Feature_Learning_for_Gait_Recognition_ICCV_2021_paper.pdf)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- 3D Local Convolutional Neural Networks for Gait Recognition. \[[ICCV-21](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_3D_Local_Convolutional_Neural_Networks_for_Gait_Recognition_ICCV_2021_paper.pdf)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Gait Recognition in the Wild: A Benchmark. \[[ICCV-21](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Gait_Recognition_in_the_Wild_A_Benchmark_ICCV_2021_paper.pdf)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
+- End-to-end Model-based Gait Recognition using Synchronized Multi-view Pose Constraint. \[[ICCVW-21](https://openaccess.thecvf.com/content/ICCV2021W/HTCV/html/Li_End-to-End_Model-Based_Gait_Recognition_Using_Synchronized_Multi-View_Pose_Constraint_ICCVW_2021_paper.html)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
 
 
 ### 3. AAAI
 
-- Gait Recognition for Co-Existing Multiple People Using Millimeter Wave Sensing. \[[AAAI-20](https://ojs.aaai.org/index.php/AAAI/article/view/5430)\]
-- STEP: Spatial Temporal Graph Convolutional Networks for Emotion Perception from Gaits. \[[AAAI-20](https://ojs.aaai.org/index.php/AAAI/article/view/5490)\]
-- GaitSet: Regarding Gait as a Set for Cross-View Gait Recognition. \[[AAAI-19](https://ojs.aaai.org/index.php/AAAI/article/view/4821)\]
+- Gait Recognition for Co-Existing Multiple People Using Millimeter Wave Sensing. \[[AAAI-20](https://ojs.aaai.org/index.php/AAAI/article/view/5430)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- STEP: Spatial Temporal Graph Convolutional Networks for Emotion Perception from Gaits. \[[AAAI-20](https://ojs.aaai.org/index.php/AAAI/article/view/5490)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- GaitSet: Regarding Gait as a Set for Cross-View Gait Recognition. \[[AAAI-19](https://ojs.aaai.org/index.php/AAAI/article/view/4821)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 
 ### 4. ACM MM
 
