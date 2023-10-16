@@ -114,23 +114,24 @@ Feel free to star and fork.
 
 ### 4. ACM MM
 
-- Generalized Inter-class Loss for Gait Recognition. \[[ACM MM-22](https://dl.acm.org/doi/abs/10.1145/3503161.3548311)\]
-- Gait recognition in the wild with multi-hop temporal switch. \[[ACM MM-22](https://dl.acm.org/doi/abs/10.1145/3503161.3547897)\]
-- Gait recognition with multiple-temporal-scale 3d convolutional neural network. \[[ACM MM-20](https://dl.acm.org/doi/abs/10.1145/3394171.3413861)\]
+- Generalized Inter-class Loss for Gait Recognition. \[[ACM MM-22](https://dl.acm.org/doi/abs/10.1145/3503161.3548311)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Gait recognition in the wild with multi-hop temporal switch. \[[ACM MM-22](https://dl.acm.org/doi/abs/10.1145/3503161.3547897)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Gait recognition with multiple-temporal-scale 3d convolutional neural network. \[[ACM MM-20](https://dl.acm.org/doi/abs/10.1145/3394171.3413861)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 
 ### 5. ECCV
 
-- MetaGait: Learning to Learn an Omni Sample Adaptive Representation for Gait Recognition.  \[[ECCV-22](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650350.pdf)\]
-- GaitEdge: Beyond Plain End-to-End Gait Recognition for Better Practicality.  \[[ECCV-22](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540358.pdf)\]
-- Gait Lateral Network: Learning Discriminative and Compact Representations for Gait Recognition. \[[ECCV-22](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650368.pdf)\]
-- Take an Emotion Walk: Perceiving Emotions from Gaits Using Hierarchical Attention Pooling and Affective Mapping. \[[ECCV-20](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550154.pdf)\]
-- Gait Recognition from a Single Image using a Phase-Aware Gait Cycle Reconstruction Network. \[[ECCV-20](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640375.pdf)\]
-- Gait recognition using a view transformation model in the frequency domain. \[[ECCV-06](https://link.springer.com/chapter/10.1007/11744078_12)\]
+- MetaGait: Learning to Learn an Omni Sample Adaptive Representation for Gait Recognition.  \[[ECCV-22](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650350.pdf)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- GaitEdge: Beyond Plain End-to-End Gait Recognition for Better Practicality.  \[[ECCV-22](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540358.pdf)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Gait Lateral Network: Learning Discriminative and Compact Representations for Gait Recognition. \[[ECCV-22](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650368.pdf)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Take an Emotion Walk: Perceiving Emotions from Gaits Using Hierarchical Attention Pooling and Affective Mapping. \[[ECCV-20](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550154.pdf)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
+- Gait Recognition from a Single Image using a Phase-Aware Gait Cycle Reconstruction Network. \[[ECCV-20](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640375.pdf)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Gait recognition using a view transformation model in the frequency domain. \[[ECCV-06](https://link.springer.com/chapter/10.1007/11744078_12)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 
 ### 6. ICME
 
-- Decomposing Identity and View for Cross-View Gait Recognition. \[[ICME-22](https://ieeexplore.ieee.org/abstract/document/9859981/)\]
-- GaitTransformer: Multiple-Temporal-Scale Transformer for Cross-View Gait Recognition. \[[ICME-22](https://ieeexplore.ieee.org/abstract/document/9859928/)\]
+- Decomposing Identity and View for Cross-View Gait Recognition. \[[ICME-22](https://ieeexplore.ieee.org/abstract/document/9859981/)\]]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- GaitTransformer: Multiple-Temporal-Scale Transformer for Cross-View Gait Recognition. \[[ICME-22](https://ieeexplore.ieee.org/abstract/document/9859928/)\]]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+
 
 ### 7. Other Top Conferences
 
