@@ -158,7 +158,7 @@ Feel free to star and fork.
 - Robust view transformation model for gait recognition. \[[ICIP-11](https://ieeexplore.ieee.org/abstract/document/6115889/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 - Cross view gait recognition using correlation strength. \[[BMVC-10](http://www.eecs.qmul.ac.uk/~sgg/papers/BashirXiangGong_BMVC2010.pdf)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 - A framework for evaluating the effect of view angle, clothing and carrying condition on gait recognition. \[[ICPR-06](https://ieeexplore.ieee.org/abstract/document/1699873/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
-- automated model-based extraction and analysis of gait. \[[AFGR-04](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1301502)\] ![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- automated model-based extraction and analysis of gait. \[[AFGR-04](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1301502)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 
 ## 4. Journal
 
