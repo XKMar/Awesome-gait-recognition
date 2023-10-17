@@ -135,30 +135,30 @@ Feel free to star and fork.
 
 ### 7. Other Top Conferences
 
-- CTrGAN: Cycle Transformers GAN for Gait Transfer. \[[WACV-23](https://openaccess.thecvf.com/content/WACV2023/papers/Mahpod_CTrGAN_Cycle_Transformers_GAN_for_Gait_Transfer_WACV_2023_paper.pdf)\] 
-- Long Range Gait Matching Using 3D Body Fitting With Gait-Specific Motion Constraints. \[[WACV-23](https://openaccess.thecvf.com/content/WACV2023W/LRR/html/Segundo_Long_Range_Gait_Matching_Using_3D_Body_Fitting_With_Gait-Specific_WACVW_2023_paper.html)\]
-- Gait Recognition Using 3-D Human Body Shape Inference.  \[[WACV-23](https://openaccess.thecvf.com/content/WACV2023/html/Zhu_Gait_Recognition_Using_3-D_Human_Body_Shape_Inference_WACV_2023_paper.html)\]
-- FedGait: A Benchmark for Federated Gait Recognition. \[[ICPR-22](https://ieeexplore.ieee.org/abstract/document/9956474/)\]
-- Interpretable Gait Recognition by Granger Causality. \[[ICPR-22](https://ieeexplore.ieee.org/abstract/document/9956624/)\]
-- GAITTAKE: Gait recognition by temporal attention and keypoint-guided embedding.\[[ICIP-22](https://ieeexplore.ieee.org/abstract/document/9897409/)\]
-- GaitStrip: Gait Recognition via Effective Strip-based Feature Representations and Multi-Level Framework. \[[ACCV-22](https://openaccess.thecvf.com/content/ACCV2022/papers/Wang_GaitStrip_Gait_Recognition_via_Effective_Strip-based_Feature_Representations_and_Multi-Level_ACCV_2022_paper.pdf)\]
-- Silhouette-based view-embeddings for gait recognition under multiple views. \[[ICIP-21](https://ieeexplore.ieee.org/abstract/document/9506238/)\]
-- Real-Time Gait-Based Age Estimation and Gender Classification From a Single Image. \[[WACV-21](https://openaccess.thecvf.com/content/WACV2021/papers/Xu_Real-Time_Gait-Based_Age_Estimation_and_Gender_Classification_From_a_Single_WACV_2021_paper.pdf)\]
-- GaitMask: Mask-based Model for Gait Recognition.\[[BMVC-21](https://www.bmvc2021-virtualconference.com/assets/papers/0471.pdf)\]
-- Gaitgraph: Graph convolutional network for skeleton-based gait recognition. \[[ICIP-21](https://ieeexplore.ieee.org/abstract/document/9506717/)\]
-- Part-based collaborative spatio-temporal feature learning for cloth-changing gait recognition. \[[ICPR-20](https://ieeexplore.ieee.org/abstract/document/9412714/)\]
-- Gait recognition using multi-scale partial representation transformation with capsules. \[[ICPR-20](https://ieeexplore.ieee.org/abstract/document/9412517/)\]
-- End-to-end model-based gait recognition. \[[ACCV-20](https://openaccess.thecvf.com/content/ACCV2020/html/Li_End-to-end_Model-based_Gait_Recognition_ACCV_2020_paper.html)\] 
-- Gait energy image restoration using generative adversarial networks. \[[ICIP-19](https://ieeexplore.ieee.org/abstract/document/8803236/)\]
-- Glidar3dj: a view-invariant gait identification via flash lidar data correction. \[[ICIP-19](https://ieeexplore.ieee.org/abstract/document/8803237/)\]
-- Pose-Based Temporal-Spatial Network (PTSN) for Gait Recognition with Carrying and Clothing Variations. \[[Biometric Recognition-17](https://www.semanticscholar.org/paper/Pose-Based-Temporal-Spatial-Network-(PTSN)-for-Gait-Liao-Cao/83deacfb7271717dfafbf10730d2c102dcb4b711)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
-- Multi-view gait recognition using 3D convolutional neural networks. \[[ICIP-16](https://ieeexplore.ieee.org/abstract/document/7533144/)\]
-- GEINet: View-invariant gait recognition using a convolutional neural network. \[[ICB-16](https://ieeexplore.ieee.org/abstract/document/7550060/)\]
-- Learning effective gait features using LSTM. \[[ICPR-16](https://ieeexplore.ieee.org/abstract/document/7899654/)\]
-- Robust view transformation model for gait recognition. \[[ICIP-11](https://ieeexplore.ieee.org/abstract/document/6115889/)\]
-- Cross view gait recognition using correlation strength. \[[BMVC-10](http://www.eecs.qmul.ac.uk/~sgg/papers/BashirXiangGong_BMVC2010.pdf)\]
-- A framework for evaluating the effect of view angle, clothing and carrying condition on gait recognition. \[[ICPR-06](https://ieeexplore.ieee.org/abstract/document/1699873/)\]
-- automated model-based extraction and analysis of gait. \[[AFGR-04](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1301502)\] ![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
+- CTrGAN: Cycle Transformers GAN for Gait Transfer. \[[WACV-23](https://openaccess.thecvf.com/content/WACV2023/papers/Mahpod_CTrGAN_Cycle_Transformers_GAN_for_Gait_Transfer_WACV_2023_paper.pdf)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Long Range Gait Matching Using 3D Body Fitting With Gait-Specific Motion Constraints. \[[WACV-23](https://openaccess.thecvf.com/content/WACV2023W/LRR/html/Segundo_Long_Range_Gait_Matching_Using_3D_Body_Fitting_With_Gait-Specific_WACVW_2023_paper.html)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
+- Gait Recognition Using 3-D Human Body Shape Inference.  \[[WACV-23](https://openaccess.thecvf.com/content/WACV2023/html/Zhu_Gait_Recognition_Using_3-D_Human_Body_Shape_Inference_WACV_2023_paper.html)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
+- FedGait: A Benchmark for Federated Gait Recognition. \[[ICPR-22](https://ieeexplore.ieee.org/abstract/document/9956474/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Interpretable Gait Recognition by Granger Causality. \[[ICPR-22](https://ieeexplore.ieee.org/abstract/document/9956624/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- GAITTAKE: Gait recognition by temporal attention and keypoint-guided embedding.\[[ICIP-22](https://ieeexplore.ieee.org/abstract/document/9897409/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- GaitStrip: Gait Recognition via Effective Strip-based Feature Representations and Multi-Level Framework. \[[ACCV-22](https://openaccess.thecvf.com/content/ACCV2022/papers/Wang_GaitStrip_Gait_Recognition_via_Effective_Strip-based_Feature_Representations_and_Multi-Level_ACCV_2022_paper.pdf)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Silhouette-based view-embeddings for gait recognition under multiple views. \[[ICIP-21](https://ieeexplore.ieee.org/abstract/document/9506238/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Real-Time Gait-Based Age Estimation and Gender Classification From a Single Image. \[[WACV-21](https://openaccess.thecvf.com/content/WACV2021/papers/Xu_Real-Time_Gait-Based_Age_Estimation_and_Gender_Classification_From_a_Single_WACV_2021_paper.pdf)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- GaitMask: Mask-based Model for Gait Recognition.\[[BMVC-21](https://www.bmvc2021-virtualconference.com/assets/papers/0471.pdf)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Gaitgraph: Graph convolutional network for skeleton-based gait recognition. \[[ICIP-21](https://ieeexplore.ieee.org/abstract/document/9506717/)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
+- Part-based collaborative spatio-temporal feature learning for cloth-changing gait recognition. \[[ICPR-20](https://ieeexplore.ieee.org/abstract/document/9412714/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Gait recognition using multi-scale partial representation transformation with capsules. \[[ICPR-20](https://ieeexplore.ieee.org/abstract/document/9412517/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- End-to-end model-based gait recognition. \[[ACCV-20](https://openaccess.thecvf.com/content/ACCV2020/html/Li_End-to-end_Model-based_Gait_Recognition_ACCV_2020_paper.html)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
+- Gait energy image restoration using generative adversarial networks. \[[ICIP-19](https://ieeexplore.ieee.org/abstract/document/8803236/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Glidar3dj: a view-invariant gait identification via flash lidar data correction. \[[ICIP-19](https://ieeexplore.ieee.org/abstract/document/8803237/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Pose-Based Temporal-Spatial Network (PTSN) for Gait Recognition with Carrying and Clothing Variations. \[[Biometric Recognition-17](https://www.semanticscholar.org/paper/Pose-Based-Temporal-Spatial-Network-(PTSN)-for-Gait-Liao-Cao/83deacfb7271717dfafbf10730d2c102dcb4b711)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
+- Multi-view gait recognition using 3D convolutional neural networks. \[[ICIP-16](https://ieeexplore.ieee.org/abstract/document/7533144/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- GEINet: View-invariant gait recognition using a convolutional neural network. \[[ICB-16](https://ieeexplore.ieee.org/abstract/document/7550060/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Learning effective gait features using LSTM. \[[ICPR-16](https://ieeexplore.ieee.org/abstract/document/7899654/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Robust view transformation model for gait recognition. \[[ICIP-11](https://ieeexplore.ieee.org/abstract/document/6115889/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Cross view gait recognition using correlation strength. \[[BMVC-10](http://www.eecs.qmul.ac.uk/~sgg/papers/BashirXiangGong_BMVC2010.pdf)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- A framework for evaluating the effect of view angle, clothing and carrying condition on gait recognition. \[[ICPR-06](https://ieeexplore.ieee.org/abstract/document/1699873/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- automated model-based extraction and analysis of gait. \[[AFGR-04](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1301502)\] ![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 
 ## 4. Journal
 
