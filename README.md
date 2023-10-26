@@ -164,34 +164,34 @@ Feel free to star and fork.
 
 ### 1. TPAMI 
 
-- GaitSet: Cross-view gait recognition through utilizing gait as a deep set. \[[TPAMI-22](https://ieeexplore.ieee.org/abstract/document/9351667/)\]
-- On learning disentangled representations for gait recognition. \[[TPAMI-20](https://ieeexplore.ieee.org/abstract/document/9154576/)\]
-- Multi-gait recognition based on attribute discovery. \[[TPAMI-17](https://ieeexplore.ieee.org/abstract/document/7976333/)\]
-- A comprehensive study on cross-view gait based human identification with deep cnns. \[[TPAMI-16](https://ieeexplore.ieee.org/document/7439821)\]
-- Human identification using temporal information preserving gait template. \[[TPAMI-11](https://ieeexplore.ieee.org/abstract/document/6112763/)\]
-- Individual recognition using gait energy image. \[[TPAMI-06](https://ieeexplore.ieee.org/abstract/document/1561189/)\]
-- Silhouette analysis-based gait recognition for human identification. \[[TPAMI-03](https://ieeexplore.ieee.org/abstract/document/1251144/)\]
+- GaitSet: Cross-view gait recognition through utilizing gait as a deep set. \[[TPAMI-22](https://ieeexplore.ieee.org/abstract/document/9351667/)\]![Static Badge](https://img.shields.io/badge/model&appearance%20based-EA6B66)
+- On learning disentangled representations for gait recognition. \[[TPAMI-20](https://ieeexplore.ieee.org/abstract/document/9154576/)\]![Static Badge](https://img.shields.io/badge/model&appearance%20based-EA6B66)
+- Multi-gait recognition based on attribute discovery. \[[TPAMI-17](https://ieeexplore.ieee.org/abstract/document/7976333/)\]![Static Badge](https://img.shields.io/badge/model&appearance%20based-EA6B66)
+- A comprehensive study on cross-view gait based human identification with deep cnns. \[[TPAMI-16](https://ieeexplore.ieee.org/document/7439821)\]![Static Badge](https://img.shields.io/badge/model&appearance%20based-EA6B66)
+- Human identification using temporal information preserving gait template. \[[TPAMI-11](https://ieeexplore.ieee.org/abstract/document/6112763/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Individual recognition using gait energy image. \[[TPAMI-06](https://ieeexplore.ieee.org/abstract/document/1561189/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Silhouette analysis-based gait recognition for human identification. \[[TPAMI-03](https://ieeexplore.ieee.org/abstract/document/1251144/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 
 ### 2. TIP
 
-- GaitMPL: Gait Recognition with Memory-Augmented Progressive Learning. \[[TIP-22](https://ieeexplore.ieee.org/abstract/document/9769988/)\]
-- Multi-view gait image generation for cross-view gait recognition.  \[[TIP-22](https://ieeexplore.ieee.org/abstract/document/9349211/)\]
-- Condition-aware comparison scheme for gait recognition. \[[TIP-20](https://ieeexplore.ieee.org/abstract/document/9275377/)\]
-- Cross-view gait recognition by discriminative feature learning. \[[TIP-19](https://ieeexplore.ieee.org/abstract/document/8759096/)\]
-- Recognizing gaits across views through correlated motion co-clustering. \[[TIP-14](https://ieeexplore.ieee.org/abstract/document/6680737/)\]
-- Gait recognition with shifted energy image and structural feature extraction. \[[TIP-12](https://ieeexplore.ieee.org/abstract/document/6111293/)\]
+- GaitMPL: Gait Recognition with Memory-Augmented Progressive Learning. \[[TIP-22](https://ieeexplore.ieee.org/abstract/document/9769988/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Multi-view gait image generation for cross-view gait recognition.  \[[TIP-22](https://ieeexplore.ieee.org/abstract/document/9349211/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Condition-aware comparison scheme for gait recognition. \[[TIP-20](https://ieeexplore.ieee.org/abstract/document/9275377/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Cross-view gait recognition by discriminative feature learning. \[[TIP-19](https://ieeexplore.ieee.org/abstract/document/8759096/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Recognizing gaits across views through correlated motion co-clustering. \[[TIP-14](https://ieeexplore.ieee.org/abstract/document/6680737/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Gait recognition with shifted energy image and structural feature extraction. \[[TIP-12](https://ieeexplore.ieee.org/abstract/document/6111293/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 
 ### 3. TIFS
 
-- Occlusion-aware Human Mesh Model-based Gait Recognition. \[[TIFS-23](https://ieeexplore.ieee.org/abstract/document/10015098/)\]
-- GaitReload: A Reloading Framework for Defending Against On-Manifold Adversarial Gait Sequences. \[[TIFS-23](https://ieeexplore.ieee.org/abstract/document/10025772/)\]
-- Joint intensity transformer network for gait recognition robust against clothing and carrying status. \[[TIFS-19](https://ieeexplore.ieee.org/abstract/document/8695052/)\]
-- Skeleton-based gait recognition via robust frame-level matching. \[[TIFS-19](https://ieeexplore.ieee.org/abstract/document/8653351/)\]
-- Multi-task GANs for view-specific feature learning in gait recognition. \[[TIFS-18](https://ieeexplore.ieee.org/abstract/document/8374898/)\]
-- Human identification from freestyle walks using posture-based gait feature. \[[TIFS-17](https://ieeexplore.ieee.org/abstract/document/8007293/)\]
-- Recognizing gaits on spatio-temporal feature domain. \[[TIFS-14](https://ieeexplore.ieee.org/abstract/document/6849450/)\]
-- A new view-invariant feature for cross-view gait recognition.\[[TIFS-13](https://ieeexplore.ieee.org/abstract/document/6478807/)\]
-- Gait recognition using compact feature extraction transforms and depth information. \[[TIFS-07](https://ieeexplore.ieee.org/abstract/document/4291549/)\]
+- Occlusion-aware Human Mesh Model-based Gait Recognition. \[[TIFS-23](https://ieeexplore.ieee.org/abstract/document/10015098/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- GaitReload: A Reloading Framework for Defending Against On-Manifold Adversarial Gait Sequences. \[[TIFS-23](https://ieeexplore.ieee.org/abstract/document/10025772/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Joint intensity transformer network for gait recognition robust against clothing and carrying status. \[[TIFS-19](https://ieeexplore.ieee.org/abstract/document/8695052/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Skeleton-based gait recognition via robust frame-level matching. \[[TIFS-19](https://ieeexplore.ieee.org/abstract/document/8653351/)\]![Static Badge](https://img.shields.io/badge/model&appearance%20based-EA6B66)
+- Multi-task GANs for view-specific feature learning in gait recognition. \[[TIFS-18](https://ieeexplore.ieee.org/abstract/document/8374898/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Human identification from freestyle walks using posture-based gait feature. \[[TIFS-17](https://ieeexplore.ieee.org/abstract/document/8007293/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Recognizing gaits on spatio-temporal feature domain. \[[TIFS-14](https://ieeexplore.ieee.org/abstract/document/6849450/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- A new view-invariant feature for cross-view gait recognition.\[[TIFS-13](https://ieeexplore.ieee.org/abstract/document/6478807/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Gait recognition using compact feature extraction transforms and depth information. \[[TIFS-07](https://ieeexplore.ieee.org/abstract/document/4291549/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 
 ### 4. PR
 
