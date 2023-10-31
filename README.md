@@ -165,9 +165,9 @@ Feel free to star and fork.
 ### 1. TPAMI 
 
 - GaitSet: Cross-view gait recognition through utilizing gait as a deep set. \[[TPAMI-22](https://ieeexplore.ieee.org/abstract/document/9351667/)\]![Static Badge](https://img.shields.io/badge/model&appearance%20based-EA6B66)
-- On learning disentangled representations for gait recognition. \[[TPAMI-20](https://ieeexplore.ieee.org/abstract/document/9154576/)\]![Static Badge](https://img.shields.io/badge/model&appearance%20based-EA6B66)
-- Multi-gait recognition based on attribute discovery. \[[TPAMI-17](https://ieeexplore.ieee.org/abstract/document/7976333/)\]![Static Badge](https://img.shields.io/badge/model&appearance%20based-EA6B66)
-- A comprehensive study on cross-view gait based human identification with deep cnns. \[[TPAMI-16](https://ieeexplore.ieee.org/document/7439821)\]![Static Badge](https://img.shields.io/badge/model&appearance%20based-EA6B66)
+- On learning disentangled representations for gait recognition. \[[TPAMI-20](https://ieeexplore.ieee.org/abstract/document/9154576/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Multi-gait recognition based on attribute discovery. \[[TPAMI-17](https://ieeexplore.ieee.org/abstract/document/7976333/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- A comprehensive study on cross-view gait based human identification with deep cnns. \[[TPAMI-16](https://ieeexplore.ieee.org/document/7439821)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 - Human identification using temporal information preserving gait template. \[[TPAMI-11](https://ieeexplore.ieee.org/abstract/document/6112763/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 - Individual recognition using gait energy image. \[[TPAMI-06](https://ieeexplore.ieee.org/abstract/document/1561189/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 - Silhouette analysis-based gait recognition for human identification. \[[TPAMI-03](https://ieeexplore.ieee.org/abstract/document/1251144/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
@@ -195,29 +195,28 @@ Feel free to star and fork.
 
 ### 4. PR
 
-- Temporal sparse adversarial attack on sequence-based gait recognition. \[[PR-23](https://arxiv.org/pdf/2002.09674)\]
-- GaitSlice: A gait recognition model based on spatio-temporal slice features. \[[PR-22](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006294)\] 
-- Gait recognition invariant to carried objects using alpha blending generative adversarial networks.  \[[PR-22](https://www.sciencedirect.com/science/article/pii/S0031320320301795)\]
-- Symmetry-Driven hyper feature GCN for skeleton-based gait recognition. \[[PR-22](https://www.sciencedirect.com/science/article/pii/S0031320322000012)\]
-- GaitSlice: A gait recognition model based on spatio-temporal slice features. \[[PR-22](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006294)\] 
-- A unified perspective of classification-based loss and distance-based loss for cross-view gait recognition. \[[PR-22](https://www.sciencedirect.com/science/article/pii/S0031320321006956)\] 
-- Multi-task learning for gait-based identity recognition and emotion recognition using attention enhanced temporal graph convolutional network \[[PR-21](https://www.sciencedirect.com/science/article/pii/S0031320321000558)\]
+- Temporal sparse adversarial attack on sequence-based gait recognition. \[[PR-23](https://arxiv.org/pdf/2002.09674)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- GaitSlice: A gait recognition model based on spatio-temporal slice features. \[[PR-22](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006294)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Gait recognition invariant to carried objects using alpha blending generative adversarial networks.  \[[PR-22](https://www.sciencedirect.com/science/article/pii/S0031320320301795)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Symmetry-Driven hyper feature GCN for skeleton-based gait recognition. \[[PR-22](https://www.sciencedirect.com/science/article/pii/S0031320322000012)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
+- A unified perspective of classification-based loss and distance-based loss for cross-view gait recognition. \[[PR-22](https://www.sciencedirect.com/science/article/pii/S0031320321006956)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Multi-task learning for gait-based identity recognition and emotion recognition using attention enhanced temporal graph convolutional network \[[PR-21](https://www.sciencedirect.com/science/article/pii/S0031320321000558)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 - Pose Gait: A model-based gait recognition method with body pose and human prior knowledge. \[[PR-20](https://www.sciencedirect.com/science/article/pii/S003132031930370X)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
-- Gaitnet: An end-to-end network for gait based human identification. \[[PR-19](https://www.sciencedirect.com/science/article/pii/S0031320319302912)\]
-- A comprehensive study on gait biometrics using a joint CNN-based method. \[[PR-19](https://www.sciencedirect.com/science/article/pii/S0031320319301694)\]
-- Complete canonical correlation analysis with application to multi-view gait recognition. \[[PR-16](https://www.sciencedirect.com/science/article/pii/S003132031500299X)\]
-- Uncooperative gait recognition by learning to rank. \[[PR-14](https://www.sciencedirect.com/science/article/pii/S0031320314002325)\]
-- Gait flow image: A silhouette-based gait representation for human identification. \[[PR-11](https://www.sciencedirect.com/science/article/pii/S0031320310004954)\]
-- Extracting a diagnostic gait signature. \[[PR-08](https://www.sciencedirect.com/science/article/pii/S003132030700492X)\]
+- Gaitnet: An end-to-end network for gait based human identification. \[[PR-19](https://www.sciencedirect.com/science/article/pii/S0031320319302912)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- A comprehensive study on gait biometrics using a joint CNN-based method. \[[PR-19](https://www.sciencedirect.com/science/article/pii/S0031320319301694)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Complete canonical correlation analysis with application to multi-view gait recognition. \[[PR-16](https://www.sciencedirect.com/science/article/pii/S003132031500299X)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Uncooperative gait recognition by learning to rank. \[[PR-14](https://www.sciencedirect.com/science/article/pii/S0031320314002325)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Gait flow image: A silhouette-based gait representation for human identification. \[[PR-11](https://www.sciencedirect.com/science/article/pii/S0031320310004954)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Extracting a diagnostic gait signature. \[[PR-08](https://www.sciencedirect.com/science/article/pii/S003132030700492X)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 
 
 ### 5. TMM
 
-- Improving Disentangled Representation Learning for Gait Recognition using Group Supervision.  \[[TMM-22](https://ieeexplore.ieee.org/abstract/document/9767609/)\]
-- A Strong and Robust Skeleton-based Gait Recognition Method with Gait Periodicity Priors. \[[TMM-22](https://ieeexplore.ieee.org/abstract/document/9721551/)\]
-- Associated spatio-temporal capsule network for gait recognition. \[[TMM-21](https://ieeexplore.ieee.org/document/9359526/)\]
-- Gait Recognition based on Local Graphical Skeleton Descriptor with Pairwise Similarity Network. \[[TMM-21](https://ieeexplore.ieee.org/abstract/document/9478261/)\]
-- Attentive spatial–temporal summary networks for feature learning in irregular gait recognition]\[[TMM-19](https://ieeexplore.ieee.org/abstract/document/8643814/) \]
+- Improving Disentangled Representation Learning for Gait Recognition using Group Supervision.  \[[TMM-22](https://ieeexplore.ieee.org/abstract/document/9767609/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- A Strong and Robust Skeleton-based Gait Recognition Method with Gait Periodicity Priors. \[[TMM-22](https://ieeexplore.ieee.org/abstract/document/9721551/)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
+- Associated spatio-temporal capsule network for gait recognition. \[[TMM-21](https://ieeexplore.ieee.org/document/9359526/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Gait Recognition based on Local Graphical Skeleton Descriptor with Pairwise Similarity Network. \[[TMM-21](https://ieeexplore.ieee.org/abstract/document/9478261/)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
+- Attentive spatial–temporal summary networks for feature learning in irregular gait recognition]\[[TMM-19](https://ieeexplore.ieee.org/abstract/document/8643814/) \]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 
 ### 6. TCSVT
 
