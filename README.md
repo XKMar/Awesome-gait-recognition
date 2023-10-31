@@ -220,30 +220,30 @@ Feel free to star and fork.
 
 ### 6. TCSVT
 
-- Enhanced Spatial-Temporal Salience for Cross-view Gait Recognition. \[[TCSVT-22](https://ieeexplore.ieee.org/abstract/document/9777726/)\]
-- Cross-view gait recognition using pairwise spatial transformer networks. \[[TCSVT-20](https://ieeexplore.ieee.org/abstract/document/9006806/)\]
-- Coupled bilinear discriminant projection for cross-view gait recognition. \[[TCSVT-19](https://ieeexplore.ieee.org/abstract/document/8616800/)\]
-- On input/output architectures for convolutional neural network-based cross-view gait recognition.  \[[TCSVT-17](https://ieeexplore.ieee.org/abstract/document/8063344/)\]
-- Gait recognition under various viewing angles based on correlated motion regression. \[[TCSVT-12](https://ieeexplore.ieee.org/abstract/document/6145627/)\]
-- Fusion of static and dynamic body biometrics for gait recognition. \[[TCSVT-04](https://ieeexplore.ieee.org/abstract/document/1269749/)\]
+- Enhanced Spatial-Temporal Salience for Cross-view Gait Recognition. \[[TCSVT-22](https://ieeexplore.ieee.org/abstract/document/9777726/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Cross-view gait recognition using pairwise spatial transformer networks. \[[TCSVT-20](https://ieeexplore.ieee.org/abstract/document/9006806/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Coupled bilinear discriminant projection for cross-view gait recognition. \[[TCSVT-19](https://ieeexplore.ieee.org/abstract/document/8616800/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- On input/output architectures for convolutional neural network-based cross-view gait recognition.  \[[TCSVT-17](https://ieeexplore.ieee.org/abstract/document/8063344/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Gait recognition under various viewing angles based on correlated motion regression. \[[TCSVT-12](https://ieeexplore.ieee.org/abstract/document/6145627/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Fusion of static and dynamic body biometrics for gait recognition. \[[TCSVT-04](https://ieeexplore.ieee.org/abstract/document/1269749/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 
 ### 7. TBIOM
 
-- Gait Pyramid Attention Network: Toward Silhouette Semantic Relation Learning for Gait Recognition.  \[[TBIOM-22](https://ieeexplore.ieee.org/abstract/document/9916067/)\]
-- STAR: Spatio-Temporal Augmented Relation Network for Gait Recognition.  \[[TBIOM-22](https://ieeexplore.ieee.org/abstract/document/9913216/)\]
-- Multi-view large population gait database with human meshes and its performance evaluation. \[[TBIOM-22](https://ieeexplore.ieee.org/abstract/document/9773349/)\]
-- Set residual network for silhouette-based gait recognition.  \[[TBIOM-21](https://ieeexplore.ieee.org/abstract/document/9410587/)\]
-- View-invariant gait recognition with attentive recurrent learning of partial representations. \[[TBIOM-20](https://ieeexplore.ieee.org/abstract/document/9229117/)\]
-- Performance evaluation of model-based gait on multi-view very large population database with pose sequences. \[[TBIOM-20](https://ieeexplore.ieee.org/abstract/document/9139355/)\]
+- Gait Pyramid Attention Network: Toward Silhouette Semantic Relation Learning for Gait Recognition.  \[[TBIOM-22](https://ieeexplore.ieee.org/abstract/document/9916067/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- STAR: Spatio-Temporal Augmented Relation Network for Gait Recognition.  \[[TBIOM-22](https://ieeexplore.ieee.org/abstract/document/9913216/)\]]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Multi-view large population gait database with human meshes and its performance evaluation. \[[TBIOM-22](https://ieeexplore.ieee.org/abstract/document/9773349/)\]]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Set residual network for silhouette-based gait recognition.  \[[TBIOM-21](https://ieeexplore.ieee.org/abstract/document/9410587/)\]]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- View-invariant gait recognition with attentive recurrent learning of partial representations. \[[TBIOM-20](https://ieeexplore.ieee.org/abstract/document/9229117/)\]]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Performance evaluation of model-based gait on multi-view very large population database with pose sequences. \[[TBIOM-20](https://ieeexplore.ieee.org/abstract/document/9139355/)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
 
 ### 8. Other Top Journals
 
-- Learning Temporal Attention based Keypoint-guided Embedding for Gait Recognition. \[[JSTSP-23](https://ieeexplore.ieee.org/abstract/document/10113150/)\]
-- Gait Quality Aware Network: Toward the Interpretability of Silhouette-Based Gait Recognition. \[[TNNLS-22](https://ieeexplore.ieee.org/abstract/document/9737002/)\]
-- Gait Identification Based on Human Skeleton with Pairwise Graph Convolutional Network. \[[ICME-21](https://ieeexplore.ieee.org/abstract/document/9428123/)\]
-- Static and Dynamic Features Analysis from Human Skeletons for Gait Recognition. \[[IJCB-21](https://ieeexplore.ieee.org/abstract/document/9484378/)\]
-- Gait recognition based on 3d skeleton data and graph convolutional network. \[[IJCB-20](https://ieeexplore.ieee.org/abstract/document/9304916/)\]
-- Dense-view geis set: View space covering for gait recognition based on dense-view gan. \[[IJCB-20](https://ieeexplore.ieee.org/abstract/document/9304910/)\]
-- DeformGait: Gait Recognition under Posture Changes using Deformation Patterns between Gait Feature Pairs. \[[IJCB-20](https://ieeexplore.ieee.org/abstract/document/9304902/)\]
-- Walking speed influences on gait cycle variability. \[[GP-07](https://www.sciencedirect.com/science/article/pii/S0966636206001846)\]
+- Learning Temporal Attention based Keypoint-guided Embedding for Gait Recognition. \[[JSTSP-23](https://ieeexplore.ieee.org/abstract/document/10113150/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Gait Quality Aware Network: Toward the Interpretability of Silhouette-Based Gait Recognition. \[[TNNLS-22](https://ieeexplore.ieee.org/abstract/document/9737002/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Gait Identification Based on Human Skeleton with Pairwise Graph Convolutional Network. \[[ICME-21](https://ieeexplore.ieee.org/abstract/document/9428123/)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
+- Static and Dynamic Features Analysis from Human Skeletons for Gait Recognition. \[[IJCB-21](https://ieeexplore.ieee.org/abstract/document/9484378/)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
+- Gait recognition based on 3d skeleton data and graph convolutional network. \[[IJCB-20](https://ieeexplore.ieee.org/abstract/document/9304916/)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
+- Dense-view geis set: View space covering for gait recognition based on dense-view gan. \[[IJCB-20](https://ieeexplore.ieee.org/abstract/document/9304910/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- DeformGait: Gait Recognition under Posture Changes using Deformation Patterns between Gait Feature Pairs. \[[IJCB-20](https://ieeexplore.ieee.org/abstract/document/9304902/)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Walking speed influences on gait cycle variability. \[[GP-07](https://www.sciencedirect.com/science/article/pii/S0966636206001846)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 
