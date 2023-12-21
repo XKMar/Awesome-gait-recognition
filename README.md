@@ -59,7 +59,8 @@ Feel free to star and fork.
 - Generalized Inter-class Loss for Gait Recognition. \[[arXiv-22](https://arxiv.org/pdf/2210.06779)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 - Learning Gait Representation from Massive Unlabelled Walking Videos: A Benchmark. \[[arXiv-22](https://arxiv.org/abs/2206.13964)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 - Spatial Transformer Network on Skeleton-based Gait Recognition. \[[arXiv-22](https://arxiv.org/abs/2204.03873)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
-
+- SkeletonGait: Gait Recognition Using Skeleton Maps. \[[arXiv-23](https://arxiv.org/pdf/2311.13444v2.pdf)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
+  
 ## 3. Conference
 
 ### 1. CVPR
