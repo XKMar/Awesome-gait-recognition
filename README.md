@@ -109,7 +109,8 @@ Feel free to star and fork.
 
 ### 3. AAAI
 
-- Gait Recognition for Co-Existing Multiple People Using Millimeter Wave Sensing. \[[AAAI-20](https://ojs.aaai.org/index.php/AAAI/article/view/5430)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- QAGait: Revisit Gait Recognition From a Quality Perspective. \[[AAAI-24](https://browse.arxiv.org/pdf/2401.13531.pdf)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+-  Gait Recognition for Co-Existing Multiple People Using Millimeter Wave Sensing. \[[AAAI-20](https://ojs.aaai.org/index.php/AAAI/article/view/5430)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 - STEP: Spatial Temporal Graph Convolutional Networks for Emotion Perception from Gaits. \[[AAAI-20](https://ojs.aaai.org/index.php/AAAI/article/view/5490)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 - GaitSet: Regarding Gait as a Set for Cross-View Gait Recognition. \[[AAAI-19](https://ojs.aaai.org/index.php/AAAI/article/view/4821)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 
