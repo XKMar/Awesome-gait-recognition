@@ -65,7 +65,7 @@ Feel free to star and fork.
 
 ### 1. CVPR
 
-- Learning Visual Prompt for Gait Recognition.\[[CVPR-24](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Learning_Visual_Prompt_for_Gait_Recognition_CVPR_2024_paper.pdf)\] \[[Github](https://github.com/XKMar/FastGait)\] ![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Learning Visual Prompt for Gait Recognition.\[[CVPR-24](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Learning_Visual_Prompt_for_Gait_Recognition_CVPR_2024_paper.pdf)\]  ![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 
 - BigGait: Learning Gait Representation You Want by Large Vision Models. \[[CVPR-24](https://openaccess.thecvf.com/content/CVPR2024/papers/Ye_BigGait_Learning_Gait_Re-presentation_You_Want_by_Large_Vision_Models_CVPR_2024_paper.pdf)\] \[[Github](https://github.com/ShiqiYu/OpenGait)\]
   
