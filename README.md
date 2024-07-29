@@ -141,6 +141,8 @@ Feel free to star and fork.
 
 ### 7. Other Top Conferences
 
+- You Can Run but not Hide: Improving Gait Recognition with Intrinsic Occlusion Type Awareness.  \[[WACV-24](https://openaccess.thecvf.com/content/WACV2024/papers/Gupta_You_Can_Run_but_Not_Hide_Improving_Gait_Recognition_With_WACV_2024_paper.pdf)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
+- Watch Where You Head: A View-Biased Domain Gap in Gait Recognition and Unsupervised Adaptation \[[WACV-24](https://openaccess.thecvf.com/content/WACV2024/papers/Habib_Watch_Where_You_Head_A_View-Biased_Domain_Gap_in_Gait_WACV_2024_paper.pdf)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 - CTrGAN: Cycle Transformers GAN for Gait Transfer. \[[WACV-23](https://openaccess.thecvf.com/content/WACV2023/papers/Mahpod_CTrGAN_Cycle_Transformers_GAN_for_Gait_Transfer_WACV_2023_paper.pdf)\]![Static Badge](https://img.shields.io/badge/appearance%20based-67AB9F)
 - Long Range Gait Matching Using 3D Body Fitting With Gait-Specific Motion Constraints. \[[WACV-23](https://openaccess.thecvf.com/content/WACV2023W/LRR/html/Segundo_Long_Range_Gait_Matching_Using_3D_Body_Fitting_With_Gait-Specific_WACVW_2023_paper.html)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
 - Gait Recognition Using 3-D Human Body Shape Inference.  \[[WACV-23](https://openaccess.thecvf.com/content/WACV2023/html/Zhu_Gait_Recognition_Using_3-D_Human_Body_Shape_Inference_WACV_2023_paper.html)\]![Static Badge](https://img.shields.io/badge/model%20based-EA6B66)
